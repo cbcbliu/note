@@ -1,0 +1,1 @@
+查看表结构：desc table_name;
